@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @bhuvanesh-0510
-- 👀 I’m interested in Automation Testing
-- 🌱 I’m currently learning QA
+- 👀 I’m interested in Data Engineering
 - 💞️ I’m looking to collaborate on IT
 
 
